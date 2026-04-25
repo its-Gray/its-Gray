@@ -1,33 +1,26 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0a0a,100:001a0a&height=160&section=header&text=GRAY&fontSize=38&fontColor=00FF41"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0a0a,100:001a0a&height=160&section=header&text=G-R-A-Y&fontSize=38&fontColor=00FF41"/>
 </p>
 
-<!-- IDENTITY MODULE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=RED+TEAM+OPERATOR;BACKEND+ARCHITECT;RUST+SYSTEMS+ENGINEER;EXPLOIT+DEVELOPER"/>
 </p>
 
 <p align="center">
   <span style="color:#7affb3;font-family:monospace;">
-    Offensive Security • Reverse Engineering • Infrastructure
+    Offensive Security • Backend Engineering
   </span>
 </p>
 
 <br/><br/>
 
-<!-- STACK MODULE -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,nodejs,mongodb,docker,linux,git,react,expressjs&theme=dark"/>
 </p>
 
 <br/><br/>
 
-<!-- ============================================ -->
-<!-- UNIFORM STATS SECTION — CENTERED TILES, NO WASTED SPACE S -->
-<!-- ============================================ -->
 
-<!-- ROW 1: Streak + Repos per Language (side by side, uniform) -->
 <p align="center">
   <table border="0" cellspacing="0" cellpadding="10" align="center">
     <tr>
@@ -47,7 +40,6 @@
 
 <br/>
 
-<!-- ROW 2: Most Commit Language + Activity Graph (uniform) -->
 <p align="center">
   <table border="0" cellspacing="0" cellpadding="10" align="center">
     <tr>
@@ -67,12 +59,10 @@
 
 <br/><br/>
 
-<!-- LOOP MODULE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=1400&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=BUILD_;EXPLOIT_;SECURE"/>
 </p>
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:001a0a,100:000000&height=120&section=footer&text=010100110101011101000101&fontSize=38&fontColor=00FF41"/>
 </p>
