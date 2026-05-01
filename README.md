@@ -18,12 +18,7 @@
              alt="GitHub Streak"
              style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
       </td>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-Gray&theme=transparent&hide_border=true"
-             alt="Repos per Language"
-             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px; background: transparent;" />
-      </td>
-    </tr>
+
   </table>
 </p>
 
