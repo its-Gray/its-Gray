@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0a0a,100:001a0a&height=160&section=header&text=G-R-A-Y&fontSize=38&fontColor=00FF41"/>
 </p>
 
@@ -12,7 +12,7 @@
   </span>
 </p>
 
-<br/><br/>
+<br/><br/> -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,nodejs,mongodb,docker,linux,git,react,expressjs&theme=dark"/>
@@ -57,12 +57,13 @@
   </table>
 </p>
 
-<br/><br/>
+<br/><br/> 
 
+<!-- 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=1400&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=BUILD_;EXPLOIT_;SECURE"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:001a0a,100:000000&height=120&section=footer&text=010100110101011101000101&fontSize=38&fontColor=00FF41"/>
-</p>
+</p> -->
