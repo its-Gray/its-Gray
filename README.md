@@ -4,10 +4,6 @@
 <img src="https://skillicons.dev/icons?i=rust,nodejs,mongodb,docker,linux,git,react,express&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-Gray&hide_border=true&date_format=%5BY.%5Dn.j&background=0D1117&stroke=1793D1&ring=1793D1&fire=1793D1&currStreakNum=1793D1&sideNums=1793D1&currStreakLabel=1793D1&sideLabels=1793D1&dates=FFFFFF" />
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=its-Gray&show_icons=true&bg_color=0D1117&title_color=1793D1&icon_color=1793D1&text_color=FFFFFF&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Gray&layout=compact&bg_color=0D1117&title_color=1793D1&text_color=FFFFFF&hide_border=true" />
-
 <sub><i>"Write code that outlives you"</i></sub>
 
 </div>
