@@ -1,21 +1,78 @@
+<!-- HEADER -->
 <p align="center">
-  <svg width="500" height="120" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0a0a,100:001a0a&height=160&section=header&text=GRAY&fontSize=38&fontColor=00FF41"/>
+</p>
 
-    <!-- soft background -->
-    <rect width="100%" height="100%" fill="transparent"/>
+<!-- IDENTITY MODULE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=RED+TEAM+OPERATOR;BACKEND+ARCHITECT;RUST+SYSTEMS+ENGINEER;EXPLOIT+DEVELOPER"/>
+</p>
 
-    <!-- core -->
-    <circle cx="250" cy="60" r="22" fill="#A6E3A1" opacity="0.12"/>
-    <circle cx="250" cy="60" r="12" fill="#A6E3A1" opacity="0.25"/>
+<p align="center">
+  <span style="color:#7affb3;font-family:monospace;">
+    Offensive Security • Reverse Engineering • Infrastructure
+  </span>
+</p>
 
-    <!-- aura rings (static illusion of motion) -->
-    <circle cx="250" cy="60" r="35" stroke="#A6E3A1" stroke-width="1" fill="none" opacity="0.15"/>
-    <circle cx="250" cy="60" r="50" stroke="#A6E3A1" stroke-width="1" fill="none" opacity="0.08"/>
+<br/><br/>
 
-    <!-- text -->
-    <text x="50%" y="105" fill="#A6E3A1" font-size="12" text-anchor="middle" opacity="0.7">
-      quiet systems. loud intent.
-    </text>
+<!-- STACK MODULE -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,nodejs,mongodb,docker,linux,git,react,expressjs&theme=dark"/>
+</p>
 
-  </svg>
+<br/><br/>
+
+<!-- ============================================ -->
+<!-- UNIFORM STATS SECTION — CENTERED TILES, NO WASTED SPACE S -->
+<!-- ============================================ -->
+
+<!-- ROW 1: Streak + Repos per Language (side by side, uniform) -->
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="10" align="center">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-Gray&theme=blue_green&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117&stroke=00FF4166"
+             alt="GitHub Streak"
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-Gray&theme=transparent&hide_border=true"
+             alt="Repos per Language"
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px; background: transparent;" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br/>
+
+<!-- ROW 2: Most Commit Language + Activity Graph (uniform) -->
+<p align="center">
+  <table border="0" cellspacing="0" cellpadding="10" align="center">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-Gray&theme=transparent&hide_border=true"
+             alt="Most Commit Language"
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px; background: transparent;" />
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-Gray&bg_color=0a0a0a&color=00FF41&line=00FF41&point=aaaaaa&hide_border=true&area=true&area_color=00ff411a"
+             alt="GitHub Activity Graph"
+             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br/><br/>
+
+<!-- LOOP MODULE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=1400&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=BUILD_;EXPLOIT_;SECURE"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:001a0a,100:000000&height=120&section=footer&text=010100110101011101000101&fontSize=38&fontColor=00FF41"/>
 </p>
