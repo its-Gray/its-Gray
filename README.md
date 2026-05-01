@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=RED+TEAM+OPERATOR;BACKEND+ARCHITECT;RUST+SYSTEMS+ENGINEER;EXPLOIT+DEVELOPER"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=BACKEND+ARCHITECT;RUST+SYSTEMS+ENGINEER"/>
 </p>
 
 
