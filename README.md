@@ -10,17 +10,7 @@
 
 <br/><br/>
 
-<p align="center">
-  <table border="0" cellspacing="0" cellpadding="10" align="center">
-    <tr>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-Gray&theme=blue_green&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117&stroke=00FF4166"
-             alt="GitHub Streak"
-             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
-      </td>
-
-  </table>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?its-Gray=&theme=shades-of-purple&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
 <!--
