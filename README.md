@@ -13,51 +13,35 @@
 </p>
 
 <br/><br/> -->
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,nodejs,mongodb,docker,linux,git,react,expressjs&theme=dark"/>
 </p>
 
-<br/><br/>
+<br/>
 
-
+<!-- ROW 1 -->
 <p align="center">
-  <table border="0" cellspacing="0" cellpadding="10" align="center">
-    <tr>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-Gray&theme=blue_green&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117&stroke=00FF4166"
-             alt="GitHub Streak"
-             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
-      </td>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-Gray&theme=transparent&hide_border=true"
-             alt="Repos per Language"
-             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px; background: transparent;" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-Gray&theme=blue_green&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117&stroke=00FF4166"
+       width="48%"
+       style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; margin: 5px;" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-Gray&theme=transparent&hide_border=true"
+       width="48%"
+       style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; margin: 5px;" />
 </p>
 
 <br/>
 
+<!-- ROW 2 -->
 <p align="center">
-  <table border="0" cellspacing="0" cellpadding="10" align="center">
-    <tr>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-Gray&theme=transparent&hide_border=true"
-             alt="Most Commit Language"
-             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px; background: transparent;" />
-      </td>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-Gray&bg_color=0a0a0a&color=00FF41&line=00FF41&point=aaaaaa&hide_border=true&area=true&area_color=00ff411a"
-             alt="GitHub Activity Graph"
-             style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; padding: 10px; width: 100%; max-width: 500px;" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-Gray&theme=transparent&hide_border=true"
+       width="48%"
+       style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; margin: 5px;" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-Gray&bg_color=0a0a0a&color=00FF41&line=00FF41&point=aaaaaa&hide_border=true&area=true&area_color=00ff411a"
+       width="48%"
+       style="border: 2px solid #00FF41; border-radius: 15px; box-shadow: 0 0 20px #00FF41; margin: 5px;" />
 </p>
-
-<br/><br/> 
 
 <!-- 
 <p align="center">
