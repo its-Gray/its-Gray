@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=1793D1&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER" />
 <img src="https://skillicons.dev/icons?i=rust,nodejs,mongodb,docker,linux,git,react,express&theme=dark" />
 </div>
@@ -12,5 +11,4 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=its-Gray&theme=tokyonight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=its-Gray&theme=tokyonight&utcOffset=8)
 </div>
-
-
+ I need the same themm as the github streek theme please
