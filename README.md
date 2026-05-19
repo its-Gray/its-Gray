@@ -6,6 +6,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-Gray&hide_border=true&date_format=%5BY.%5Dn.j&background=0D1117&stroke=1793D1&ring=1793D1&fire=1793D1&currStreakNum=1793D1&sideNums=1793D1&currStreakLabel=1793D1&sideLabels=1793D1&dates=FFFFFF" />
 
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Gray&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1793D1&text_color=FFFFFF&icon_color=1793D1" />
+
 <div align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
 </div>
