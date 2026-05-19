@@ -28,56 +28,5 @@
 
 </div>
 
----
-
-```rust
-struct Engineer {
-    handle: &'static str,
-    stack:  [&'static str; 8],
-    os:     &'static str,
-    focus:  &'static str,
-}
-
-const ME: Engineer = Engineer {
-    handle: "its-Gray",
-    stack:  ["Rust", "Node.js", "MongoDB", "Docker",
-             "Linux", "Git", "React", "Express"],
-    os:     "Linux",
-    focus:  "Systems · APIs · Dev Infrastructure",
-};
-```
-
----
-
-<div align="center">
-
-```bash
-$ gray --status
-
-  ⬡  Writing fast things in Rust
-  ⬡  Wiring services with Node.js + Express
-  ⬡  Containerising everything with Docker
-  ⬡  Living in the terminal on Linux
-  ⬡  Open to collabs — drop an issue or a DM
-```
-
-<br/>
-
-| Layer | Tech |
-|:---|:---|
-| Systems | `Rust` |
-| Runtime | `Node.js` · `Express` |
-| Frontend | `React` |
-| Database | `MongoDB` |
-| Infra | `Docker` · `Linux` |
-| VCS | `Git` |
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=its-Gray&color=39d353&style=flat-square&label=PROFILE+VIEWS)
-
-<br/>
-
-*— built in the dark, shipped in green —*
 
 </div>
