@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak — shadow-green theme -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=its-Gray&theme=shadow-green&border_radius=13.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
@@ -38,7 +38,7 @@ const ME: Engineer = Engineer {
 
 <div align="center">
 
-<!-- Profile Summary Cards -->
+<!-- Profile Summary Cards — tokyonight matches shadow-green dark palette -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-Gray&theme=tokyonight)
 
 <br/>
@@ -86,8 +86,8 @@ $ gray --status
 
 <br/>
 
-<!-- Activity Graph -->
-[![Gray's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-Gray&theme=react-dark&color=39d353&line=2ea043&point=39d353&area=true&hide_border=true)](https://github.com/its-Gray)
+<!-- Activity Graph — full shadow-green dark palette -->
+[![Gray's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=its-Gray&bg_color=0d1117&color=39d353&line=2ea043&point=39d353&area_color=0d2418&area=true&hide_border=true&radius=6)](https://github.com/its-Gray)
 
 <br/>
 
