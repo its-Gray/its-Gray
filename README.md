@@ -12,7 +12,7 @@
 
 <br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=its-Gray&theme=tokyonight)&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=its-Gray&theme=tokyonight&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=its-Gray&theme=tokyonight&utcOffset=3)
 
 
 </div>
